@@ -1,0 +1,4 @@
+CLass damo{
+public static void main(String []agrs){
+System.out .prinln("Hello World);
+}
