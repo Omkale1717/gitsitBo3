@@ -1,0 +1,17 @@
+Class Swaping{
+Public Static void Main(String []args){
+int a=10;
+int b=20;
+int c;
+System.out .prinln(a);
+system.out .prinln(b);
+
+c=a;
+b=a;
+b=c;
+system.out .println(a);
+system.out .println(b);
+
+
+
+}
