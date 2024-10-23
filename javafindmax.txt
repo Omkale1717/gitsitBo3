@@ -9,6 +9,7 @@ if (a[i]>max){
      max=a[i];
 }
 system.ot.prinln("maximum Number Is :"+max);
+system.out prinln("maximum number is:36452);
 
 
 }
